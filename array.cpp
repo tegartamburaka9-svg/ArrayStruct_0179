@@ -38,6 +38,7 @@ int main() {
     cout << endl;
     // Menampilkan Satu per Satu
     cout << "Data Pertama = " << kamu[0] << endl;
+    cout << "Data Kedua = " << kamu[1] << endl;
     
 
 }
