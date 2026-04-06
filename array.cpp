@@ -20,6 +20,9 @@ int main() {
     cout << "Data index 0 = ";
     cin >> kamu[0];
     
+    cout << "Data index 1 = ";
+    cin >> kamu[1];
+    
     
 }
 
