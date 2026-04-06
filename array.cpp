@@ -26,6 +26,9 @@ int main() {
     cout << "Data index 2 = ";
     cin >> kamu[2];
     
+    cout << "Data index 3 = ";
+    cin >> kamu[3];
+    
     
 }
 
