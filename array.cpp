@@ -31,5 +31,9 @@ int main() {
     
     cout << "Data index 4 = ";
     cin >> kamu[4]; // (Lanjutan baris 25 berdasarkan pola kode)
+
+    cin >> kamu[3];
+    cout << "Data index 4 = ";
+   
 }
 
